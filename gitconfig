@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = amadeusmaximilian@gmail.com
+	name = Amadeus Hoffmann
